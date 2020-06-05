@@ -4,7 +4,8 @@ Based on Brad Traversy's Udemy Course: https://www.udemy.com/course/modern-javas
 
 ## Resources
 
-Used the HTML boiler-plate from [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/
+Used the HTML boiler-plate from [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
 
 ## See the App:
 
+[Click here](https://lindsayjohnston.github.io/Loan-Calculator/)
